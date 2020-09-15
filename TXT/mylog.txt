@@ -1,4 +1,4 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode : http://osp4diss.vlsm.org/ETC/logCodes.txt
+# LogCode : https://destarass.github.io/os202/TXT/mylog.txt
 ZCZC W00 10 L03 GitHub related
