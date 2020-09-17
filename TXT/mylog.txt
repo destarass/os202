@@ -6,3 +6,4 @@ ZCZC W00  60 L01 SCELE related
 ZCZC W00 120 L02 ZOOM
 ZCZC W00 120 L03 GSGS  and find tutorial github page 
 ZCZC W00 100 L04 tutorial download on OS ( virtual BOX)
+ZCZC W00 60 L05 learn music and study OS
