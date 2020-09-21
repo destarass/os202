@@ -6,7 +6,7 @@
 
 <br>
 
-# My name is CBKadal
+# My name is Muhammad Destara Syanandi
 
 ## [My Log](TXT/mylog.txt)
 <br>
