@@ -12,4 +12,4 @@ ZCZC W00 100 L07 study another lecturer
 ZCZC W00 120 L08 watching movies
 ZCZC W00 120 L09 watching Drama korea
 ZCZC W00 120 L10 workout
-
+ZCZC W00 120 L11 KerjaRodi
