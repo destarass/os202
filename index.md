@@ -1,0 +1,50 @@
+---
+permalink: /W01/
+---
+
+[HOME](../) 
+
+
+<br>
+# Top 10 List of Week 01
+
+
+1. [One](https://intl.siyavula.com/read/cat/grade-12-cat/system-software-and-computer-management/06-system-software-and-computer-management?id=sec6-2)<br>
+In this chapter, we will look at what an operating system is and why it is important in managing programs. We will also look at how to best manage files and which operating utilities you can use to improve performance. Finally, we will look at some of the factors that may decrease a computer’s performance, as well as some potential solutions.
+
+2. [Two](https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading07.htm#:~:text=An%20operating%20system%20has%20three,provide%20services%20for%20applications%20software.&text=Thus%20you%20both%20establish%20a%20user%20interface%20and%20execute%20software.)<br>
+An operating system has three main functions: (1) manage the computer's resources, such as the central processing unit, memory, disk drives, and printers, (2) establish a user interface, and (3) execute and provide services for applications software.
+
+3. [Three](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)<br>
+Client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients
+
+4. [Four](https://www.coursehero.com/file/47880730/2ppt/)<br>
+A design issue often represents a challenging problem through the operational requirements and capabilities of a robotic system. A design issue is usually a very important item of the design process that will lead to specific design solutions.
+
+5. [Five](https://www.ecpi.edu/blog/importance-of-network-security-safety-in-the-digital-world#:~:text=A%20good%20network%20security%20system,shared%20data%20is%20kept%20secure.)<br>
+Network security is one of the most important aspects to consider when working over the internet, LAN or other method, no matter how small or big your business is. While there is no network that is immune to attacks, a stable and efficient network security system is essential to protecting client data. A good network security system helps business reduce the risk of falling victim of data theft and sabotage.
+
+6. [Six](https://www.cs.nmt.edu/~cs325/spring%2011/Lectures/Lec04-OSStructure.pdf)<br>
+Operating System Structure Affected by choice of hardware, type of system 
+
+User goals and System goals:
+
+- User goals – operating system should be convenient to use,
+easy to learn, reliable, safe, secure, and fast
+
+- System goals – operating system should be easy to design,
+implement, and maintain, as well as flexible, reliable, errorfree, secure, and efficient
+
+7. [Seven](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)<br>
+Resource abstraction is the process of "hiding the details of how the hardware operates, thereby making computer hardware relatively easy for an application programmer to use" [given by Nutt in 1997]. One way in which the operating system might implement resource abstraction is to provide a single abstract disk interface which will be the same for both the hard disk and floppy disk. Such an abstraction saves the programmer from needing to learn the details of both hardware interfaces.
+
+8. [Eight](https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.)<br>
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+
+9. [Nine](https://www.ukessays.com/essays/computer-science/interrupts-in-operating-systems-computer-science-essay.php)<br>
+To successfully control several processes the core of operating system makes utilize of what is known as interrupt. Interrupt is a machine used for implementing the multitasking concept. It is a signal from hardware or software to point out the incidence of the event. When one or more process running and at similar time if user give an additional process then interrupt is take place. If the CPU does not poll the control bit, but instead receives an interrupt when the device is ready for the next byte, the data transfer is said to be interrupt driven.
+
+10. [Ten](https://minnie.tuhs.org/CompArch/Lectures/week05.html)<br>
+In the last two hardware lectures, we are going to look at the mechanisms provided by the CPU to manage the system hardware: the CPU itself, the memory and the peripheral devices.
+We will also look at the two privilege modes, user mode and kernel mode, the mechanisms to cross between then, and the reason why they exist in the first place.
+Thie latter leads on to the issue of security, and how the above provide basic system security mechanisms which can then be built on by the software layers above.
