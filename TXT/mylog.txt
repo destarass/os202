@@ -1,7 +1,39 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://destarass.github.io/os202/TXT/mylog.txt
-ZCZC W00 10 L03 GitHub related
+#General lOG
+
+L01 SCELE related
+L02 ZOOM
+L03 GSGS  and find tutorial github page 
+L04 tutorial download on OS ( virtual BOX)
+L05 learn music and study OS
+L06 making github pages
+L07 study linux 
+L08 mencoba beberapa hal yang baru
+L09 study another lecture
+L10 assignment
+L11 Readeng book 
+L12 Assignment 1
+L13 Assignment 1
+L14 Assignment 1
+L15 Assignment 1
+L16 Assignment 1
+L17 Assignment 1
+L18 Assignment 1
+L19 Assignment 1
+L20 Doing productive (workout , course online)
+L21 Trying to virtualbox (open it )
+L22 open youtube ( Study)
+L23 Writing in mylog.txt
+
+
+
+
+
+
+# [Week00]
+
 ZCZC W00  60 L01 SCELE related
 ZCZC W00 120 L02 ZOOM
 ZCZC W00 120 L03 GSGS  and find tutorial github page 
@@ -9,7 +41,24 @@ ZCZC W00 100 L04 tutorial download on OS ( virtual BOX)
 ZCZC W00 60 L05 learn music and study OS
 ZCZC W00 40 L06 making github pages
 ZCZC W00 100 L07 study linux 
+ZCZC W))
 
 #Week01
-ZCZC W01 300 L21 Setting up debian env usingVirtualBOX
+ZCZC W01 150 L02 Zoom at class 
+ZCZC W01 15 L22 Youtube watching tutorial 
+ZCZC W01 30 L01 SCeLE: Participated in SCeLE Forum
+ZCZC W01 15 L05 GSGS find command in linux
+ZCZC W01 120 L21 VirtualBox: Setting up Debian env using VirtualBox
+ZCZC W01 10 L11 Assignment 1: Create or Import Debian Virtual Guest
+ZCZC W01 30 L12 Assignment 2: Log intu the guest and learn some CLI commands
+ZCZC W01 5 L13 Assignment 3: Create new user account such as GitHub account
+ZCZC W01 10 L14 Assignment 4: Create a tunnel from guest user to badak via kawung
+ZCZC W01 5 L15 Assignment 5: Copy folders from badak to guest dir using rsync
+ZCZC W01 1 L16 Assignment 6: git pull os202 from github
+ZCZC W01 5 L17 Assignment 7: Update and git push from guest dir to os202 github
+ZCZC W01 20 L18 Assignment 8: Add w00.md and w01.md for weekly top 10 List
+ZCZC W01 30 L08 Trying Something like ( mengotak atik putty , ssh , badak )
+ZCZC W01 30 L08 update mylog.txt 
+
+
 
