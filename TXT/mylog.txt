@@ -61,4 +61,9 @@ ZCZC W01 30 L08 Trying Something like ( mengotak atik putty , ssh , badak )
 ZCZC W01 30 L08 update mylog.txt 
 
 
+#Week002
+ZCZC W02 150 L02 Zoom at class (Synchronous) 
+
+
+
 
