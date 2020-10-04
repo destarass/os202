@@ -1,9 +1,17 @@
   
 # TOP 10 Rank
+
+#week00
 ZCZC W00 akbarrafs
-ZCZC W00 alibaba 
-ZCZC W00 kutakada
+ZCZC W00 bilazahra 
+ZCZC W00 bonarws
+ZCZC W00 eugenebrigita
+ZCZC W00 wienaamanda
+
+#week01
 ZCZC W01 fahdikrie
-ZCZC W01 cbkadal
-ZCZC W01 kutakada
+ZCZC W01 fathinah
+ZCZC W01 fathurrp
+ZCZC W01 idrisyoga23 
+ZCZC W01 jeremiahtennes 
 
