@@ -26,7 +26,12 @@ L20 Doing productive (workout , course online)
 L21 Trying to virtualbox (open it )
 L22 open youtube ( Study)
 L23 Writing in mylog.txt
-
+L24 Assignment 9
+L25 Assignment 10
+L26 Assignment 11
+L28 Assignment 12
+L29 Assignment 13
+L30 Assignment 14
 
 
 
@@ -41,7 +46,7 @@ ZCZC W00 100 L04 tutorial download on OS ( virtual BOX)
 ZCZC W00 60 L05 learn music and study OS
 ZCZC W00 40 L06 making github pages
 ZCZC W00 100 L07 study linux 
-ZCZC W))
+
 
 #Week01
 ZCZC W01 150 L02 Zoom at class 
@@ -64,6 +69,21 @@ ZCZC W01 30 L08 update mylog.txt
 #Week002
 ZCZC W02 150 L02 Zoom at class (Synchronous) 
 ZCZC W02 100 L22 youtube tutorial linux and research gsgs
+ZCZC W02 5 L12 Assignment #1 Generating a KEY PAIR
+ZCZC W02 30 L03 GSGS: How to import local files to linux box
+ZCZC W02 10 L13 Assignment #2 List the keys
+ZCZC W02 5 L14 Assignment #3 Importing the Operating Systems public key
+ZCZC W02 6 L15 Assignment#5  Export Public Key “mypubkey.txt”
+ZCZC W02 5 L15 Assignment#6  Generate SHA256SUM and SHA256SUM.asc
+ZCZC W02 3 L15 Assignment#7  Generating a KEY PAIR ( Badak )
+ZCZC W02 3 L15 Assignment#8  List the keys ( Badak )
+ZCZC W02 3 L24 Assignment#9  Copying the KEYS to the Guest (osp) ( Badak )
+ZCZC W02 5 L25 Assignment#10 Importing the KEYS ( Badak )
+ZCZC W02 5 L26 Assignment#11 Importing the Operating Systems public key  ( Badak ) 
+ZCZC W02 5 L27 Assignment#12 Export Public Key “mypubkey.txt”  ( Badak )
+ZCZC W02 5 L28 Assignment#13 Export Public Key “mypubkey.txt”  ( Badak )
+ZCZC W02 10 L29 Assignment#14 Generate SHA256SUM and SHA256SUM.asc ( Badak )
+ZCZC W02 120 L03 GSGS: Study about Protection, Security, Privacy, & C-language
 
 
 
