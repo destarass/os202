@@ -15,13 +15,13 @@ L09 study another lecture
 L10 assignment
 L11 Readeng book 
 L12 Assignment 1
-L13 Assignment 1
-L14 Assignment 1
-L15 Assignment 1
-L16 Assignment 1
-L17 Assignment 1
-L18 Assignment 1
-L19 Assignment 1
+L13 Assignment 2
+L14 Assignment 3
+L15 Assignment 4
+L16 Assignment 5
+L17 Assignment 6
+L18 Assignment 7
+L19 Assignment 8
 L20 Doing productive (workout , course online)
 L21 Trying to virtualbox (open it )
 L22 open youtube ( Study)
@@ -63,6 +63,7 @@ ZCZC W01 30 L08 update mylog.txt
 
 #Week002
 ZCZC W02 150 L02 Zoom at class (Synchronous) 
+ZCZC W02 100 L22 youtube tutorial linux and research gsgs
 
 
 
