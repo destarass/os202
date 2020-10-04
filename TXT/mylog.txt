@@ -84,6 +84,7 @@ ZCZC W02 5 L27 Assignment#12 Export Public Key “mypubkey.txt”  ( Badak )
 ZCZC W02 5 L28 Assignment#13 Export Public Key “mypubkey.txt”  ( Badak )
 ZCZC W02 10 L29 Assignment#14 Generate SHA256SUM and SHA256SUM.asc ( Badak )
 ZCZC W02 120 L03 GSGS: Study about Protection, Security, Privacy, & C-language
+ZCZC W02 30 L08 update mylog.txt 
 
 
 
