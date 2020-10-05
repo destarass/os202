@@ -33,6 +33,7 @@ L28 Assignment 12
 L29 Assignment 13
 L30 Assignment 14
 L31 Update Myrank.txt
+L32 Mengerjakan Top10 list (week...)
 
 
 
@@ -65,6 +66,7 @@ ZCZC W01 5 L17 Assignment 7: Update and git push from guest dir to os202 github
 ZCZC W01 20 L18 Assignment 8: Add w00.md and w01.md for weekly top 10 List
 ZCZC W01 30 L08 Trying Something like ( mengotak atik putty , ssh , badak )
 ZCZC W01 30 L08 update mylog.txt 
+ZCZC W01 60 L32 update Top10 list week01 
 
 
 #Week002
@@ -87,6 +89,8 @@ ZCZC W02 10 L29 Assignment#14 Generate SHA256SUM and SHA256SUM.asc ( Badak )
 ZCZC W02 120 L03 GSGS: Study about Protection, Security, Privacy, & C-language
 ZCZC W02 30 L08 update mylog.txt 
 ZCZC W02 30 L31 update myrank.txt 
+ZCZC W02 60 L03 GSGS: research untuk mengerjakan materi top 10 list minggu ini 
+ZCZC W02 100 L32 update Top10 list week01 
 
 
 
