@@ -90,7 +90,7 @@ ZCZC W02 120 L03 GSGS: Study about Protection, Security, Privacy, & C-language
 ZCZC W02 30 L08 update mylog.txt 
 ZCZC W02 30 L31 update myrank.txt 
 ZCZC W02 60 L03 GSGS: research untuk mengerjakan materi top 10 list minggu ini 
-ZCZC W02 100 L32 update Top10 list week01 
+ZCZC W02 100 L32 update Top10 list week02 
 
 
 
