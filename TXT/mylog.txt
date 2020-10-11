@@ -69,29 +69,41 @@ ZCZC W01 30 L08 update mylog.txt
 ZCZC W01 60 L32 update Top10 list week01 
 
 
-#Week002
+#Week02
 ZCZC W02 150 L02 Zoom at class (Synchronous) 
 ZCZC W02 100 L22 youtube tutorial linux and research gsgs
-ZCZC W02 5 L12 Assignment #1 Generating a KEY PAIR
+ZCZC W02 5 L12 Assignment #1
 ZCZC W02 30 L03 GSGS: How to import local files to linux box
-ZCZC W02 10 L13 Assignment #2 List the keys
-ZCZC W02 5 L14 Assignment #3 Importing the Operating Systems public key
-ZCZC W02 6 L15 Assignment#5  Export Public Key “mypubkey.txt”
-ZCZC W02 5 L15 Assignment#6  Generate SHA256SUM and SHA256SUM.asc
-ZCZC W02 3 L15 Assignment#7  Generating a KEY PAIR ( Badak )
-ZCZC W02 3 L15 Assignment#8  List the keys ( Badak )
-ZCZC W02 3 L24 Assignment#9  Copying the KEYS to the Guest (osp) ( Badak )
-ZCZC W02 5 L25 Assignment#10 Importing the KEYS ( Badak )
-ZCZC W02 5 L26 Assignment#11 Importing the Operating Systems public key  ( Badak ) 
-ZCZC W02 5 L27 Assignment#12 Export Public Key “mypubkey.txt”  ( Badak )
-ZCZC W02 5 L28 Assignment#13 Export Public Key “mypubkey.txt”  ( Badak )
-ZCZC W02 10 L29 Assignment#14 Generate SHA256SUM and SHA256SUM.asc ( Badak )
+ZCZC W02 10 L13 Assignment #2 
+ZCZC W02 5 L14 Assignment #3 
+ZCZC W02 6 L15 Assignment#5  
+ZCZC W02 5 L15 Assignment#6  
+ZCZC W02 3 L15 Assignment#7  
+ZCZC W02 3 L15 Assignment#8  
+ZCZC W02 3 L24 Assignment#9  
+ZCZC W02 5 L25 Assignment#10 
 ZCZC W02 120 L03 GSGS: Study about Protection, Security, Privacy, & C-language
 ZCZC W02 30 L08 update mylog.txt 
 ZCZC W02 30 L31 update myrank.txt 
 ZCZC W02 60 L03 GSGS: research untuk mengerjakan materi top 10 list minggu ini 
 ZCZC W02 100 L32 update Top10 list week02 
 
-
-
+#Week03
+ZCZC W03 150 L02 Zoom at class (Synchronous) 
+ZCZC W03 30 L03 GSGS: find error on step make in cbkadal example 3
+ZCZC W03 60 L03 GSGS: cek on forum and read that problem
+ZCZC W03  10 L25 Assignment #10
+ZCZC W03  15 L24 Assignment #9
+ZCZC W03   5 L23 Assignment #8
+ZCZC W03  10 L22 Assignment #7
+ZCZC W03   5 L21 Assignment #6
+ZCZC W03  15 L19 Assignment #4
+ZCZC W03  30 L18 Assignment #3
+ZCZC W03  30 L03 GSGS: Belajar memakai GNU
+ZCZC W03  15 L17 Assignment #2
+ZCZC W03  30 L16 Assignment #1
+ZCZC W03  100 L22 wathincg file system linux tutorial 
+ZCZC W03 45 L03 GSGS:file system interface  operation system 
+ZCZC W03 45 L03 GSGS:file system hierarchy in linux
+ZCZC W03  100 L22 wathincg youtube Fuse linux tutorial 
 
