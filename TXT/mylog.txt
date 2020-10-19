@@ -112,14 +112,18 @@ ZCZC W03 120 L32 update Top10 list week03
 #Week04
 ZCZC W04 120 L02 ZOOM
 ZCZC W04 20 L03 GSGS related
+ZCZC W04 100 L22 youtube Logical and Physical Address in Operating System
 ZCZC W04  15 L17 Assignment #2
 ZCZC W03  30 L18 Assignment #3
 ZCZC W04   5 L15 Assignment #5
 ZCZC W04   5 L21 Assignment #6
+ZCZC W04   5 L03 GSGS paging
 ZCZC W04  10 L22 Assignment #7
 ZCZC W04   5 L23 Assignment #8
 ZCZC W04  15 L24 Assignment #9
+ZCZC W04   40 L03 GSGS Understanding Shared Libraries in Linux
 ZCZC W03  50 L16 Assignment #1
 ZCZC W03  30 L03 GSGS: searching for top 10 list week 04
 ZCZC W04  60 L19 Assignment #4
+ZCZC W04  10 L25 Assignment #10
 
