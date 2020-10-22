@@ -127,3 +127,21 @@ ZCZC W04  60 L19 Assignment #4 Update your Virtual Guest.
 ZCZC W04  10 L22 Assignment #7 Update your log (eg. https://cbkadal.github.io/os202/TXT/mylog.txt).
 ZCZC W04 30 L22 youtube Pointers & Addresses in C and Pointers & Addresses in C
 
+#Week05
+ZCZC W05 120 L02 ZOOM
+ZCZC W05 20 L03 GSGS related
+ZCZC W05  50 L16 Assignment #1 Read: (OSC10 chapter 10)
+ZCZC W05  30 L18 Assignment #3 Update myrank.txt
+ZCZC W05  15 L17 Assignment #2 Update your Virtual Guest.
+ZCZC W05   5 L15 Assignment #5 Run ”chktoken 12345” and write the result into myW05token.txt.
+ZCZC W05   5 L21 Assignment #6 Download https://os.vlsm.org/WEEK/W05.tar.bz2.asc and write the result into TXT/myW05.txt.
+ZCZC W05   5 L23 Assignment #8 Update bash script (e.g. https://cbkadal.github.io/os202/TXT/myscript.sh).
+ZCZC W05 100 L22 youtube Global vs Local allocation in operating system | global replacement allocation | local replacement
+ZCZC W05  15 L24 Assignment #9 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W05  10 L22 Assignment #7 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt).
+ZCZC W05   20 L03 GSGS Virtual Memory: Separation Logical from Physical.
+ZCZC W05  60 L19 Assignment #4 TOP 10 List of Week 05
+ZCZC W05   40 L03 GSGS Understanding Shared Libraries in Linux
+ZCZC W05  30 L03 GSGS: searching for top 10 list week 05
+ZCZC W05 80 L22 youtube Top 10 Linux Job Interview Questions
+
