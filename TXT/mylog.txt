@@ -145,3 +145,21 @@ ZCZC W05   40 L03 GSGS Understanding Shared Libraries in Linux
 ZCZC W05  30 L03 GSGS: searching for top 10 list week 05
 ZCZC W05 80 L22 youtube Top 10 Linux Job Interview Questions
 
+
+#Week06
+ZCZC W06 120 L02 ZOOM
+ZCZC W06 20 L03 GSGS related
+ZCZC W06  30 L18 Assignment #3 Update myrank.txt
+ZCZC W06  50 L16 Assignment #1 Read: (OSC10 chapter 10)
+ZCZC W06  15 L17 Assignment #2 Update your Virtual Guest.
+ZCZC W06   5 L15 Assignment #5 
+ZCZC W06   5 L21 Assignment #6 Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write the result into TXT/myW05.txt.
+ZCZC W06   5 L23 Assignment #8 Update bash script (e.g. https://cbkadal.github.io/os202/TXT/myscript.sh).
+ZCZC W06 60 L22 youtube Find key generate
+ZCZC W06  15 L24 Assignment #9 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W06  10 L22 Assignment #7 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt).
+ZCZC W06   20 L03 GSGS Lumbung.cd.ui.ac.id
+ZCZC W06  60 L19 Assignment #4 TOP 10 List of Week 06
+ZCZC W06   40 L03 GSGS Understanding Shared Libraries in Linux
+ZCZC W06  30 L03 GSGS: searching for top 10 list week 06
+
