@@ -163,3 +163,23 @@ ZCZC W06  60 L19 Assignment #4 TOP 10 List of Week 06
 ZCZC W06   40 L03 GSGS Understanding Shared Libraries in Linux
 ZCZC W06  30 L03 GSGS: searching for top 10 list week 06
 
+
+#Week07
+ZCZC W07 120 L02 ZOOM
+ZCZC W07 20 L03 GSGS related
+ZCZC W07  30 L18 Assignment #3 Update your Virtual Guest.
+ZCZC W07  50 L16 Assignment #1 Week 07 Token: TFAWAKENS
+ZCZC W07  15 L17 Assignment #2 Read: (OSC10 chapter 06 + chapter 07 + chapter 08)
+ZCZC W07   5 L15 Assignment #5  Create your TOP 10 List of Week 07 (e.g. https://cbkadal.github.io/os202/W07/). Do not use lecture material. Please be more creative!
+ZCZC W07   5 L21 Assignment #6 Run ”chktoken TFAWAKENS” and write the result into myW07token.txt.
+ZCZC W07   5 L23 Assignment #8 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt)
+ZCZC W07 60 L22 youtube GSGS
+ZCZC W07  15 L25 Assignment #10 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W07  15 L26 Assignment #11 Do ”make clean” your W07/ folder and ”tar” it back into myW07.tar.bz2
+ZCZC W07  15 L27 Assignment #12 GnuPG encrypt (armor) to myW07.tar.bz2.txt.
+ZCZC W07  15 L24 Assignment #9 Update bash script (e.g. https://cbkadal.github.io/os202/TXT/myscript.sh).
+ZCZC W07  10 L22 Assignment #7 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt).
+ZCZC W07   20 L03 GSGS  Synchronization
+ZCZC W07  30 L03 GSGS: searching for top 10 list week 07
+ZCZC W07  60 L19 Assignment #4 Visit https://os.vlsm.org/GitHubPages/. Review Last Week TOP 10 List and pick at least 3 out of your 10 closest neighbors. See https://cbkadal.github.io/os202/TXT/myrank.txt.
+ZCZC W07   40 L03 GSGS Understanding Shared Libraries in Linux
