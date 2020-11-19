@@ -40,4 +40,11 @@ ZCZC W05 aks861
 ZCZC W05 johanessteven19 
 ZCZC W05 kukuhhafiyyan 
 ZCZC W05 nmhlog
-ZCZC W05 yolandawsirait 
+ZCZC W05 yolandawsirait
+
+#week06
+ZCZC W06 nmhlog 
+ZCZC W06 HugoIr 
+ZCZC W06 ferenica 
+ZCZC W06 bilazahra
+ZCZC W06 fathurrp 
