@@ -201,6 +201,6 @@ ZCZC W08  15 L27 Assignment #12 GnuPG encrypt (armor) to myW08.tar.bz2.txt.
 ZCZC W08  15 L24 Assignment #9 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
 ZCZC W08  10 L22 Assignment #7 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt).
 ZCZC W08   20 L03 GSGS  Synchronization
-ZCZC W08  30 L03 GSGS: searching for top 10 list week 07
+ZCZC W08  30 L03 GSGS: searching for top 10 list week 08
 ZCZC W08  60 L19 Assignment #4 Visit https://os.vlsm.org/GitHubPages/. Review Last Week TOP 10 List and pick at least 3 out of your 10 closest neighbors. See https://cbkadal.github.io/os202/TXT/myrank.txt.
-ZCZC W08   40 L03 GSGS Understanding Shared Libraries in Linux
+
