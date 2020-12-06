@@ -204,3 +204,24 @@ ZCZC W08   20 L03 GSGS  Synchronization
 ZCZC W08  30 L03 GSGS: searching for top 10 list week 08
 ZCZC W08  60 L19 Assignment #4 Visit https://os.vlsm.org/GitHubPages/. Review Last Week TOP 10 List and pick at least 3 out of your 10 closest neighbors. See https://cbkadal.github.io/os202/TXT/myrank.txt.
 
+#Week09
+ZCZC W09 120 L02 ZOOM
+ZCZC W09 20 L03 GSGS related
+ZCZC W09  30 L18 Assignment #3 Update your Virtual Guest.
+ZCZC W09  50 L16 Assignment #1 Week 09 Token: ROMULAN
+ZCZC W09  15 L17 Assignment #2 Read: (OSC10 chapter 11)
+ZCZC W09   5 L15 Assignment #5 Create your TOP 10 List of Week 09 (e.g. https://cbkadal.github.io/os202/W09/).
+Do not use lecture material. Please be more creative!
+ZCZC W09   5 L21 Assignment #6 Run ”chktoken ROMULAN” and write the result into myW09token.txt.
+ZCZC W09   5 L23 Assignment #8 Update bash script (e.g. https://cbkadal.github.io/os202/TXT/myscript.sh).
+ZCZC W09  15 L25 Assignment #10 Place the assignment result into W09/ folder and ”tar” it into
+myW09.tar.bz2.
+ZCZC W09  15 L26 Assignment #11 GnuPG encrypt (armor) to myW09.tar.bz2.txt
+ZCZC W09  15 L24 Assignment #9 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W09  10 L22 Assignment #7 Update your log (e.g. https://cbkadal.github.io/os202/TXT/mylog.txt).
+ZCZC W09   20 L03 GSGS  HardDisk
+ZCZC W09  30 L03 GSGS: searching for top 10 list week 09
+ZCZC W09  60 L19 Assignment #4 Visit https://os.vlsm.org/GitHubPages/. Review Last Week
+TOP 10 List and pick at least 3 out of your 10 closest neighbors. See
+https://cbkadal.github.io/os202/TXT/myrank.txt.
+
